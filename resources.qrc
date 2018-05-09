@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>vertexShader.vsh</file>
+        <file>fragmentShader.fsh</file>
+        <file>textures/grassa512.bmp</file>
+        <file>textures/grassb512.bmp</file>
+        <file>textures/rock512.bmp</file>
+        <file>textures/sand512.bmp</file>
+    </qresource>
+</RCC>
